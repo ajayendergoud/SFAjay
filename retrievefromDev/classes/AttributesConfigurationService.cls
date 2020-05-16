@@ -1,6 +1,6 @@
 public class AttributesConfigurationService {
 	
-
+//comments added by amar
 
 	public static void configureAttributes(List<vlocity_cmt.JSONRecord> itemRecords, Set<Id> itemIds) {
 		if(itemRecords == null || itemRecords.isEmpty()) return;
